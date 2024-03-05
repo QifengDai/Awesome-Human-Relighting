@@ -1,4 +1,4 @@
-# Human-Relighting-Learning-List
+# Awesome-Human-Relighting
 
 Some recent works on face relighting and human relighting. If you find any errors or problems, please feel free to comment.
 
